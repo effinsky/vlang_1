@@ -32,6 +32,8 @@ fn main() {
 	}
 
 	print('grafana name on prom: $prom.grafana.name\n')
+	
+	// trying for an NPE
 }
 
 struct Prometheus {
